@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jdelong/Google Drive/Dev/C++/Cast-Advanced/cast advanced/cast advanced/Model.h
+Polygon.h
+/Users/jdelong/Google Drive/Dev/C++/Cast-Advanced/cast advanced/cast advanced/Polygon.h
+string
+-
+vector
+-
+
+/Users/jdelong/Google Drive/Dev/C++/Cast-Advanced/cast advanced/cast advanced/ModelHelper.h
+Model.h
+/Users/jdelong/Google Drive/Dev/C++/Cast-Advanced/cast advanced/cast advanced/Model.h
+Polygon.h
+/Users/jdelong/Google Drive/Dev/C++/Cast-Advanced/cast advanced/cast advanced/Polygon.h
+Vertex.h
+/Users/jdelong/Google Drive/Dev/C++/Cast-Advanced/cast advanced/cast advanced/Vertex.h
+vector
+-
+string
+-
+
+/Users/jdelong/Google Drive/Dev/C++/Cast-Advanced/cast advanced/cast advanced/Polygon.h
+Vertex.h
+/Users/jdelong/Google Drive/Dev/C++/Cast-Advanced/cast advanced/cast advanced/Vertex.h
+
+/Users/jdelong/Google Drive/Dev/C++/Cast-Advanced/cast advanced/cast advanced/Vertex.h
+
+/Users/jdelong/Google Drive/Dev/C++/Cast-Advanced/cast advanced/cast advanced/main.cpp
+iostream
+-
+fstream
+-
+ctime
+-
+Model.h
+/Users/jdelong/Google Drive/Dev/C++/Cast-Advanced/cast advanced/cast advanced/Model.h
+ModelHelper.h
+/Users/jdelong/Google Drive/Dev/C++/Cast-Advanced/cast advanced/cast advanced/ModelHelper.h
+
